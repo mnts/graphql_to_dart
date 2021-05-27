@@ -6,7 +6,7 @@ environment:
   sdk: '>=2.6.0 <3.0.0'
 
 dependencies:
-  yaml: ^2.2.1
-  graphql: ^3.0.1
+  yaml: 
+  graphql:
   recase: ^3.0.0
 
